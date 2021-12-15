@@ -1,0 +1,22 @@
+body
+{
+background: linear-gradient(yellow 0%, red 100%);
+}
+.heading
+{
+    border-radius: 10px;
+    letter-spacing: 5px;
+    font-size: 30px;
+}
+.webcam
+{
+    border-radius: 10px;
+    color: lightgreen;
+    font-size: 25px;
+}
+#webcam , #image
+{
+    border: 3px dashed white;
+    height: 300px;
+    width: 360px;
+}
